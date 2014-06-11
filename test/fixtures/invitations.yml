@@ -1,0 +1,8 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: "xyz@gmail.com"
+  expired: false
+two:
+  email: "abc@mail.com"
+  expired: false
